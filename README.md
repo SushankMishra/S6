@@ -14,15 +14,27 @@ Welcome to the **Notes** explaining the major steps taken to emulate backpropaga
 
 ![Loss Graph_0pt1](Images/Loss_0pt1.png "Loss function vs Epochs @ N=0.1")
 
+### Loss function vs Epochs @ N=0.1
+
 ![Loss Graph_0pt2](Images/Loss_0pt2.png "Loss function vs Epochs @ N=0.2")
+
+### Loss function vs Epochs @ N=0.2
 
 ![Loss Graph_0pt5](Images/Loss_0pt5.png "Loss function vs Epochs @ N=0.5")
 
+### Loss function vs Epochs @ N=0.5
+
 ![Loss Graph_0pt8](Images/Loss_0pt8.png "Loss function vs Epochs @ N=0.8")
-     
+    
+### Loss function vs Epochs @ N=0.8
+ 
 ![Loss Graph_1](Images/Loss_1.png "Loss function vs Epochs @ N=1")
 
+### Loss function vs Epochs @ N=1
+
 ![Loss Graph_1](Images/Loss_2.png "Loss function vs Epochs @ N=2")
+
+### Loss function vs Epochs @ N=2
 
 ## Final Look 
 
