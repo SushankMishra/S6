@@ -24,4 +24,9 @@ Welcome to the **Notes** explaining the major steps taken to emulate backpropaga
 
 ![Loss Graph_1](Images/Loss_2.png "Loss function vs Epochs @ N=2")
 
+## Final Look 
+
+
+![FinalBPTable](Images/Excel_file.png "The values obtained at Learning Rate N=2")
+
 
