@@ -39,7 +39,6 @@ Welcome to the **Notes** explaining the major steps taken to emulate backpropaga
 
 ## Final Look 
 
-
 ![FinalBPTable](Images/Excel_file.png "The values obtained at Learning Rate N=2")
 
 
